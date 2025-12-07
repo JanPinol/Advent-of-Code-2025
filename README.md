@@ -9,4 +9,6 @@ Collection of Advent of Code Year2025 problems solved!
 | 4   | <a href="https://github.com/JanPinol/Advent-of-Code-2025/blob/main/day4/day4.py">Printing Department</a>     | Python     |
 | 5   | <a href="https://github.com/JanPinol/Advent-of-Code-2025/blob/main/day5/day5.py">Cafeteria</a>     | Python     |
 | 6   | <a href="https://github.com/JanPinol/Advent-of-Code-2025/blob/main/day6/day6.py">Trash Compactor</a>     | Python     |
+| 7   | <a href="https://github.com/JanPinol/Advent-of-Code-2025/blob/main/day7/day7.py">Laboratories</a>     | Python     |
+
 
