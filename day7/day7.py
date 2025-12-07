@@ -21,19 +21,10 @@ def dfs(start_row, start_col, matrix, rows, cols, mem):
 
     sol = 0
 
-    # Explore left
-    if start_col - 1 < 0:
-        sol += 1
-    else:
-        sol += dfs(start_row + 1, start_col - 1, matrix, rows, cols, mem)
+    # Explore
+    sol += dfs(start_row + 1, start_col - 1, matrix, rows, cols, mem)
+    sol += dfs(start_row + 1, start_col + 1, matrix, rows, cols, mem)
 
-    # Explore right
-    if start_col + 1 >= cols:
-        sol += 1
-    else:
-        sol += dfs(start_row + 1, start_col + 1, matrix, rows, cols, mem)
-
-    # Memoize and return
     mem[(start_row, start_col)] = sol
     
     return sol
