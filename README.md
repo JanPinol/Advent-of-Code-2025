@@ -10,5 +10,7 @@ Collection of Advent of Code Year2025 problems solved!
 | 5   | <a href="https://github.com/JanPinol/Advent-of-Code-2025/blob/main/day5/day5.py">Cafeteria</a>     | Python     |
 | 6   | <a href="https://github.com/JanPinol/Advent-of-Code-2025/blob/main/day6/day6.py">Trash Compactor</a>     | Python     |
 | 7   | <a href="https://github.com/JanPinol/Advent-of-Code-2025/blob/main/day7/day7.py">Laboratories</a>     | Python     |
+| 8   | <a href="https://github.com/JanPinol/Advent-of-Code-2025/blob/main/day8/day8.py">Playground</a>     | Python     |
+| 9   | <a href="https://github.com/JanPinol/Advent-of-Code-2025/blob/main/day9/day9.py">Movie Theater</a>     | Python     |
 
 
