@@ -14,6 +14,6 @@ Collection of Advent of Code Year2025 problems solved!
 | 9   | <a href="https://github.com/JanPinol/Advent-of-Code-2025/blob/main/day9/day9.py">Movie Theater</a>     | Python     |
 | 10   | <a href="https://github.com/JanPinol/Advent-of-Code-2025/blob/main/day10/day10.py">Factory</a>     | Python     |
 | 11   | <a href="https://github.com/JanPinol/Advent-of-Code-2025/blob/main/day11/day11.py">Reactor</a>     | Python     |
-| 12   | <a href="https://github.com/JanPinol/Advent-of-Code-2025/blob/main/day12/day12.py"></a>     | Python     |
+| 12   | <a href="https://github.com/JanPinol/Advent-of-Code-2025/blob/main/day12/day12.py">Christmas Tree Farm</a>     | Python     |
 
 
